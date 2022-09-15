@@ -1,0 +1,15 @@
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\EA1_Struct\bin\Debug\net6.0\EA1_Struct.exe
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\EA1_Struct\bin\Debug\net6.0\EA1_Struct.deps.json
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\EA1_Struct\bin\Debug\net6.0\EA1_Struct.runtimeconfig.json
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\EA1_Struct\bin\Debug\net6.0\EA1_Struct.dll
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\EA1_Struct\bin\Debug\net6.0\EA1_Struct.pdb
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\EA1_Struct\obj\Debug\net6.0\EA1_Struct.csproj.AssemblyReference.cache
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\EA1_Struct\obj\Debug\net6.0\EA1_Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\EA1_Struct\obj\Debug\net6.0\EA1_Struct.AssemblyInfoInputs.cache
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\EA1_Struct\obj\Debug\net6.0\EA1_Struct.AssemblyInfo.cs
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\EA1_Struct\obj\Debug\net6.0\EA1_Struct.csproj.CoreCompileInputs.cache
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\EA1_Struct\obj\Debug\net6.0\EA1_Struct.dll
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\EA1_Struct\obj\Debug\net6.0\refint\EA1_Struct.dll
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\EA1_Struct\obj\Debug\net6.0\EA1_Struct.pdb
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\EA1_Struct\obj\Debug\net6.0\EA1_Struct.genruntimeconfig.cache
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\EA1_Struct\obj\Debug\net6.0\ref\EA1_Struct.dll
