@@ -42,6 +42,6 @@ internal class Calculator
     }
     public static List<int> test(List<int> nums)
     {
-        return nums.Where(n => n % 10 < 5).ToList();
+        return nums.Where(n => n % 10 != 5).ToList();
     }
 }
