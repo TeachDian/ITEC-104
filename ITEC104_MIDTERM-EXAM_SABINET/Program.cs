@@ -1,76 +1,55 @@
-﻿using System.Collections;
-using System.IO;
-
-
+using System.Collections;
+Console.Title = "Midterm Exam";
+Console.ForegroundColor = ConsoleColor.White; // you can change the foreground color here. Foreground = letters||
 Stack stack = new Stack();
-static void main()
+int Input;
+Console.Write(@"
+Stack MENU(size -- 10)
+    1. Add an element
+    2. See the Top Element
+    3. Remove the Top Element
+    4. Display Stack Elements
+    5. Exit
+");
+while (true)
 {
+    Console.Write("Select your Choice: ");
+    Input = Convert.ToInt32(Console.ReadLine());
 
-}
-do
-{
-    Console.Write(@"
-    Stack MENU(size -- 10)
-        1. Add an element
-        2. See the Top Element
-        3. Remove the Top Element
-        4. Display Stack Elements
-        5. Exit
-    Select your Choice: ");
-
-    switch (Console.Read())
+    if (Input == 1)
     {
-        case '1': Uno(); break;
-        case '2': Dos(); break;
-        case '3': Trs(); break;
-        case '4': Qtr(); break;
-        case '5': Cnc(); break;
-
-        default: Console.WriteLine("\n    Invalid Input!"); break;
+        Console.Write("Enter the Element: ");
+        stack.Push(Convert.ToInt32(Console.ReadLine()));
+        Console.WriteLine("Item Pushed Successfully!\n");
     }
-    //Console.ReadKey();
-} while (true);
 
-static void Uno()
-{
+    if (Input == 2)
+    {      
+        Console.WriteLine("Top of stack is {0}\n", stack.Peek());
+    }
 
-    Console.Write("    Enter the Element: ");
-    string input = Console.ReadLine();
-    int num = Convert.ToInt32(input);
-    Console.Write("\n    Item Pushed Successfully!");
-    Console.ReadKey();
+    if (Input == 3)
+    {
+        Console.WriteLine("Top of stack is removed!!", stack.Pop());
+        Console.WriteLine("New Top of stack is {0}\n",  stack.Peek());
+    }
+
+    if (Input == 4)
+    {
+        foreach (int sanaall in stack)
+        {
+            Console.Write("Item: " +sanaall+"\n");
+        }
+        Console.WriteLine();
+    }
+
+    if (Input == 5)
+    {
+        Environment.Exit(0);
+    }
+
+    if (Input > 5)
+    {
+        Console.WriteLine("Invalid Input!\n");   
+    }
 }
-static void Dos()
-{
-
-}
-static void Trs()
-{
-
-}
-static void Qtr()
-{
-
-}
-static void Cnc()
-{
-    Console.Write(@"    Confirm Exit?");
-
-}
-
-
-//  1
-// Enter the Element : 25
-// Item Pushed Successfully!
-
-// Select your choice :1
-// Enter the Element : 26
-// Item Pushed Successfully!
-
-// Select your choice : 4
-// Item 2 :26
-// Item 1 :25
-
-// Select your choice : 3
-// Top of stack is removed!!
-// New Top of stack is 25
