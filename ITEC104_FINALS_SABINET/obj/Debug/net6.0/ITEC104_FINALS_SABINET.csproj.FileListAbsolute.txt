@@ -1,0 +1,15 @@
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\ITEC104_FINALS_SABINET\bin\Debug\net6.0\ITEC104_FINALS_SABINET.exe
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\ITEC104_FINALS_SABINET\bin\Debug\net6.0\ITEC104_FINALS_SABINET.deps.json
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\ITEC104_FINALS_SABINET\bin\Debug\net6.0\ITEC104_FINALS_SABINET.runtimeconfig.json
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\ITEC104_FINALS_SABINET\bin\Debug\net6.0\ITEC104_FINALS_SABINET.dll
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\ITEC104_FINALS_SABINET\bin\Debug\net6.0\ITEC104_FINALS_SABINET.pdb
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\ITEC104_FINALS_SABINET\obj\Debug\net6.0\ITEC104_FINALS_SABINET.csproj.AssemblyReference.cache
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\ITEC104_FINALS_SABINET\obj\Debug\net6.0\ITEC104_FINALS_SABINET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\ITEC104_FINALS_SABINET\obj\Debug\net6.0\ITEC104_FINALS_SABINET.AssemblyInfoInputs.cache
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\ITEC104_FINALS_SABINET\obj\Debug\net6.0\ITEC104_FINALS_SABINET.AssemblyInfo.cs
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\ITEC104_FINALS_SABINET\obj\Debug\net6.0\ITEC104_FINALS_SABINET.csproj.CoreCompileInputs.cache
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\ITEC104_FINALS_SABINET\obj\Debug\net6.0\ITEC104_FINALS_SABINET.dll
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\ITEC104_FINALS_SABINET\obj\Debug\net6.0\refint\ITEC104_FINALS_SABINET.dll
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\ITEC104_FINALS_SABINET\obj\Debug\net6.0\ITEC104_FINALS_SABINET.pdb
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\ITEC104_FINALS_SABINET\obj\Debug\net6.0\ITEC104_FINALS_SABINET.genruntimeconfig.cache
+C:\Users\phili\Desktop\Visual Studio Code\CSharp\ITEC104\ITEC104_FINALS_SABINET\obj\Debug\net6.0\ref\ITEC104_FINALS_SABINET.dll
